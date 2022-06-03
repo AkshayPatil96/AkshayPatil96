@@ -11,6 +11,8 @@
 
 📫 Contact me at akshayr.patil96@gmail.com
 
+💼 Portfolio https://akshay-patil-protfolio.netlify.app/
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ak2706/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@akshayr.patil96) 
