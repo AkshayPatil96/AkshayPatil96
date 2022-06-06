@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Patil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h4 align="center">I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</h4>
 
 
 
